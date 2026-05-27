@@ -1,0 +1,13 @@
+package 
+public class 
+public function
+
+
+package 
+import pack.classname or import pack.*
+class
+main 
+object creation and calling
+
+cant create 2 diff public class in same file
+need diff package -> unique public class 
